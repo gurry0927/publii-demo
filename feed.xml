@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>一平方小天地</title>
-    <link href="https://gurry0927.github.io/publii-demo/feed.xml" rel="self" />
-    <link href="https://gurry0927.github.io/publii-demo" />
+    <link href="https://gurry0927.github.io/publii-mr-square/feed.xml" rel="self" />
+    <link href="https://gurry0927.github.io/publii-mr-square" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>方小天</name>
     </author>
-    <id>https://gurry0927.github.io/publii-demo</id>
+    <id>https://gurry0927.github.io/publii-mr-square</id>
 
 </feed>
