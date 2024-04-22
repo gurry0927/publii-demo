@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "一平方小天地",
     "description": "",
-    "home_page_url": "https://github.com/mr-square.com",
-    "feed_url": "https://github.com/mr-square.com/feed.json",
+    "home_page_url": "https://github.com/gurry0927/publii-mr-square.git",
+    "feed_url": "https://github.com/gurry0927/publii-mr-square.git/feed.json",
     "user_comment": "",
     "author": {
         "name": "方小天"
